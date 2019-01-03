@@ -1,0 +1,21 @@
+body {
+    background-color: #eee;
+}
+
+#price-container {
+    text-align: center;
+}
+
+#price-container > p {
+    /* width: 400px; */
+    /* text-align: center; */
+}
+
+#price-container div {
+    /* background: red; */
+    /* display: block; */
+}
+
+tr {
+    height: 35px;
+}
